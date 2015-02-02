@@ -1,4 +1,4 @@
-package lab.security.web.dao;
+package lab.security.dao;
 
 public class ProfessorDAO extends BaseDAO {
 

@@ -2,12 +2,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>『豪情』后台管理</title>
-    <link href="css/admin_login.css" rel="stylesheet" type="text/css" />
+    <title>南一楼510实验室微信公众号管理后台</title>
+    <link href="css/login.css" rel="stylesheet" type="text/css" />
 </head>
-<body>
+<body oncontextmenu="return false;">
 <div class="admin_login_wrap">
-    <h1>后台管理</h1>
+    <h1>微信公众号管理后台</h1>
     <div class="adming_login_border">
         <div class="admin_input">
             <form action="index.html" method="post">
@@ -27,7 +27,7 @@
             </form>
         </div>
     </div>
-    <p class="admin_copyright"><a tabindex="5" href="#">返回首页</a> &copy; 2014 Powered by <a href="http://jscss.me" target="_blank">豪情</a></p>
+    
 </div>
 </body>
 </html>

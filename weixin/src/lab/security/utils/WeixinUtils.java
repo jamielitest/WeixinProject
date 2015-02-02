@@ -1,4 +1,4 @@
-package lab.security.web.utils;
+package lab.security.utils;
 
 public class WeixinUtils {
 

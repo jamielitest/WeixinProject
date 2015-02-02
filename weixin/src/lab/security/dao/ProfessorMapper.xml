@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="lab.security.dao.ProfessorDAO">
+     
+	 <resultMap type="Professor" id="professorMap">
+	     <id property="id" column="id" />  
+	     <result property="birthday" column="birthday"/>  
+	     <result property="gender" column="gender"/>
+	     <result property="name" column="name"/>
+	  
+	     <result property="email" column="email"/>  
+	     <result property="position" column="position"/>
+	     <result property="characters" column="characters"/>
+		 <result property="background" column="background"/>
+			
+	</resultMap>
+	
+</mapper>

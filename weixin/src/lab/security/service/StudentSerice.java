@@ -1,4 +1,4 @@
-package lab.security.web.service;
+package lab.security.service;
 
 public class StudentSerice {
 
